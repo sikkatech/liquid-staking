@@ -50,7 +50,10 @@
 ### Native In-Protocol
 
 #### Delegation Vouchers
-- [Chorus One: Delegation Vouchers](https://blog.chorus.one/delegation-vouchers/)
+- [Chorus One/Sikka: Delegation Vouchers](https://blog.chorus.one/delegation-vouchers/)
+
+#### Fungible Delegation Shares
+- [Sunny Aggarwal: Design Specification for Staking Derivatives](https://forum.cosmos.network/t/a-design-for-fungible-staking-derivatives/2441)
 
 #### Transfer Of Delegation Ownership
 - [B-Harvest: Enabling transfer of delegation ownership](https://forum.cosmos.network/t/discussion-enabling-transfer-of-delegation-ownership/2324)<br/><br/>
@@ -71,7 +74,6 @@
 - [Competitive equilibria between staking and on-chain lending by Tarun Chitra](https://arxiv.org/abs/2001.00919)
 
 #### Detailed Technical Proposals
-- [Sunny Aggarwal - Design Specification for Staking Derivatives](https://forum.cosmos.network/t/a-design-for-fungible-staking-derivatives/2441)
 - [Interchain Accounts: Everett Proposal](https://github.com/cosmos/ics/issues/251)
 - [NEAR - Ideas for Smart Contract Delegation](https://research.nearprotocol.com/t/staking-and-delegation-via-smart-contract/43) and [Staking Contract Design Spec](https://github.com/nearprotocol/NEPs/pull/27/files#diff-7ec232c276390edf926f159669d5388c)
 
