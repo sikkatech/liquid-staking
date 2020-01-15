@@ -6,6 +6,7 @@ During the four month project, we will explore the different ways staked assets 
 
 The approaches we will investigate include:
 - Delegation vouchers
+- [Fungible Delegation Shares](https://forum.cosmos.network/t/a-design-for-fungible-staking-derivatives/2441)
 - bAtoms / [Everett](https://www.everett.zone/) model (including implications of interchain accounts / delegated account control)
 - [B-Harvest](https://bharvest.io/) delegation DEX and tranches
 - Slashing insurance using prediction markets
